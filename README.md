@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Windows 11 System Restore Using DISM utility</b>
-  - [Windows 11 System Restore Using DISM](https://github.com/njs33487/ActiveDirectoryLab/blob/main/README.md)
+  - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
 - <b>Full Stack Web App (Java, JDBC, AWS, postgreSQL, Maven , Tomcat , Postman, HTML , CSS , JavaScript, Angular, Spring MVC)</b>
   -
 - <b>PowerShell</b>
