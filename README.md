@@ -2,8 +2,8 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/njs33487/ActiveDirectoryLab/blob/main/README.md)
+- <b>Windows 11 System Restore Using DISM utility</b>
+  - [Windows 11 System Restore Using DISM](https://github.com/njs33487/ActiveDirectoryLab/blob/main/README.md)
 - <b>Full Stack Web App (Java, JDBC, AWS, postgreSQL, Maven , Tomcat , Postman, HTML , CSS , JavaScript, Angular, Spring MVC)</b>
   -
 - <b>PowerShell</b>
