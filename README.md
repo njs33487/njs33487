@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/njs33487/ActiveDirectoryLab/blob/main/README.md)
 - <b>Full Stack Web App (Java, JDBC, AWS, postgreSQL, Maven , Tomcat , Postman, HTML , CSS , JavaScript, Angular, Spring MVC)</b>
   -
 - <b>PowerShell</b>
