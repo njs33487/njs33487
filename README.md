@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (Java, JDBC, AWS, postgreSQL, Maven , Tomcat , Postman, HTML , CSS , JavaScript, Angular, Spring MVC)</b>
-  -
+  -[Employee Reimbursement System]()
 - <b>PowerShell</b>
   - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
 - <b>Python</b>
-  - 
+  - [python repository](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/Python)
 - <b>Java</b>
-  - 
+  - [Java repository](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/nicholasStanleyCode/nickJava/hackerrank-solutions)
 
 <h2>📺 Certifications</h2>
 
