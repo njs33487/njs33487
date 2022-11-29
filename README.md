@@ -2,13 +2,13 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Windows 11 System Restore Using DISM utility</b>
-  - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
 - <b>Full Stack Web App (Java, JDBC, AWS, postgreSQL, Maven , Tomcat , Postman, HTML , CSS , JavaScript, Angular, Spring MVC)</b>
   -
 - <b>PowerShell</b>
-  - 
+  - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
 - <b>Python</b>
+  - 
+- <b>Java</b>
   - 
 
 <h2>📺 Certifications</h2>
@@ -16,6 +16,7 @@
   - [CompTIA A+ ] 
   - [CompTIA Network+ N10-008] 
   - [CompTIA Security+ SYS_601]
+  - [Linux Essentials]
   - [Microsoft SC_900]
   - [Microsoft AZ_900]
   
