@@ -30,6 +30,6 @@
 
 [android]: https://linkedin.com/in/njs33487
 [cashapp]: https://imgur.com/a/u9XLX7b
-[youtube]: https://linkedin.com/in/njs33487
+[youtube]: https://www.youtube.com/@networkStan
 [linkedin]: https://linkedin.com/in/njs33487
 
