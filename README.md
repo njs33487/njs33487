@@ -29,7 +29,7 @@
 
 
 [android]: https://linkedin.com/in/njs33487
-[cashapp]: https://linkedin.com/in/njs33487  
+[cashapp]: cash.app/$DigiBin
 [youtube]: https://linkedin.com/in/njs33487
 [linkedin]: https://linkedin.com/in/njs33487
 
