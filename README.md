@@ -23,12 +23,14 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NicholasStanley | Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />][android]
+[<img align="left" alt="NicholasStanley | CashApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cashapp.svg" />][cashapp]
 [<img align="left" alt="NicholasStanley | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="NicholasStanley | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NicholasStanley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NicholasStanley | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [android]: https://linkedin.com/in/njs33487
+[cashapp]: https://linkedin.com/in/njs33487  
 [twitter]: https://linkedin.com/in/njs33487
 [youtube]: https://linkedin.com/in/njs33487
 [instagram]: https://linkedin.com/in/njs33487
