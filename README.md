@@ -22,13 +22,13 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="center" alt="NicholasStanley | Android" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />][android]
+[<img align="center" alt="NicholasStanley | Android" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/snapchat.svg" />][snapchat]
 [<img align="left" alt="NicholasStanley | CashApp" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cashapp.svg" />][cashapp]
 [<img align="left" alt="NicholasStanley | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="NicholasStanley | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[android]: https://linkedin.com/in/njs33487
+[snapchat]: https://www.snapchat.com/add/theonethatiz?share_id=gKfW0-GIgRA&locale=en-US
 [cashapp]: https://imgur.com/a/u9XLX7b
 [youtube]: https://www.youtube.com/@networkStan
 [linkedin]: https://linkedin.com/in/njs33487
