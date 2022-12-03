@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
     - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
 - <b>HTML_CSS_JavaScript</b>
-    - [WebPageExample](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/FRONT/webpages/revWebPg)
+    - [WebPageExample](https://github.com/njs33487/webpage_example)
 - <b>Python</b>
     - [python repository](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/Python)
 - <b>Java</b>
