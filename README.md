@@ -13,7 +13,7 @@
 - <b>Java</b>
     - [Java repository](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/nicholasStanleyCode/nickJava/hackerrank-solutions)
 
-<h2> 🎓Knowledge </h2>
+<h2> 🎓Certifications </h2>
 
   - [CompTIA A+ ] 
   - [CompTIA Network+ N10-008] 
