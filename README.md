@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <br/><a href="https://github.com/njs33487/python-html-css-javascript">Software Developer</a>, <a href="https://www.linkedin.com/in/njs33487/">Information Technology Professional</a>
+<h1>Hi, I'm Nicholas! <br/><a href="https://github.com/njs33487/python-html-css-javascript">Software Developer</a>, <a href="https://www.linkedin.com/in/njs33487/">Information Technology Professional</a><a href="https://www.flcompanyregistry.com/companies/digital-binary-solutions-llc/"> , and SDVOSB Service Disabled Veteran Small Business Owner</a>
  
   ## 👨‍💻 Software Development Projects:
 
