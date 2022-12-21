@@ -16,7 +16,7 @@
   - [CompTIA A+ ] 
   - [CompTIA Network+ N10-008] 
   - [CompTIA Security+ SYS_601]
-  - [Linux Essentials]
+  - [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000552551/ge494tbrk7)
   - [Microsoft SC_900]
   - [Microsoft AZ_900]
   
