@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <br/><a href="https://portfolio.njs33487.repl.co">Software Developer</a>, <a href="https://www.linkedin.com/in/njs33487/">Information Technology Professional</a><a href="https://www.flcompanyregistry.com/companies/digital-binary-solutions-llc/"> , and SDVOSB Service Disabled Veteran Small Business Owner</a>
+<h1>Hi, I'm Nicholas! <br/><a href="https://portfolio.nicholasjoseph1.repl.co>Software Developer</a>, <a href="https://www.linkedin.com/in/njs33487/">Information Technology Professional</a><a href="https://www.flcompanyregistry.com/companies/digital-binary-solutions-llc/"> , and SDVOSB Service Disabled Veteran Small Business Owner</a>
  
   ## 👨‍💻 Software Development Projects:
 
