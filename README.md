@@ -16,6 +16,7 @@
 
 ## 🎓Certifications:
 
+  - [Information Technology Secuirty Administration Mycc](file:///C:/Users/njs33/OneDrive/Documents/Desktop/001-NOTES/personal%20and%20confidential/njs33487/personal%20and%20confidential/ITSA%20COC%2012-2022%20191.pdf) 
   - [CompTIA A+ ] 
   - [CompTIA Network+ N10-008] 
   - [CompTIA Security+ SYS_601]
