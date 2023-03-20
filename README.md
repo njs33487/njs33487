@@ -16,7 +16,7 @@
 
 ## 🎓Certifications:
 
-  - [Information Technology Secuirty Administration Mycc](https://imgur.com/a/vpoqKTt) 
+  - [Information Technology Secuirty Administration Mycc](https://imgur.com/MLPLXQs) 
   - [CompTIA A+ ] 
   - [CompTIA Network+ N10-008] 
   - [CompTIA Security+ SYS_601]
