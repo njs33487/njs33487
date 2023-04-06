@@ -10,15 +10,15 @@
    - [Netflix Clone](https://netflix-frontend.nicholasjoseph1.repl.co/)
 - <b>PowerShell</b>
     - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
-- <b>HTML_CSS_JavaScript</b>
+- <b>HTML_CSS/b>
     - [WebPageExample](https://github.com/njs33487/webpage_example)
 - <b>Java</b>
     - [Java repository](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/nicholasStanleyCode/nickJava/hackerrank-solutions)
 
 ## 🎓Certifications:
 
-  - [Information Technology Secuirty Administration Mycc](https://imgur.com/MLPLXQs) 
-  - [CompTIA A+ ] 
+  - [Information Technology Secuirty Administration Certficate](https://imgur.com/MLPLXQs) 
+  - [CompTIA A+] 
   - [CompTIA Network+ N10-008] 
   - [CompTIA Security+ SYS_601]
   - [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000552551/ge494tbrk7)
