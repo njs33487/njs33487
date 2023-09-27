@@ -14,7 +14,7 @@
 - <b>Java</b>
     - [Java repository](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/nicholasStanleyCode/nickJava/hackerrank-solutions)
 
-## 🎓Certifications:
+## 🎓Credentials:
 
   - [Information Technology Secuirty Administration Certficate](https://imgur.com/MLPLXQs) 
   - [CompTIA A+] 
