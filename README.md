@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nicholas! <br/><a href="https://portfolio.nicholasjoseph1.repl.co">Software Developer</a>, 
- <a href="https://www.linkedin.com/in/nicholas-stanley-949538273/">Information Technology Professional</a><a href="https://www.flcompanyregistry.com/companies/digital-binary-solutions-llc/"> , and SDVOSB Owner</a>
+ <a href="https://www.upwork.com/freelancers/~0170ecd8433937e1d6?mp_source=share&hl=en-US">Information Technology Professional</a><a href="https://www.flcompanyregistry.com/companies/digital-binary-solutions-llc/"> , and SDVOSB Owner</a>
  
   ## 👨‍💻 Software Development Projects:
 
