@@ -18,8 +18,8 @@
   - [Daytona State College AA](https://imgur.com/a/aLHZuaA)
   - [Information Technology Secuirty Administration Certficate](https://imgur.com/MLPLXQs) 
   - [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000552551/ge494tbrk7)
-  - [ Introduction to Web Development with HTML, CSS,JavaScript](file:///C:/Users/njs_3/Downloads/Coursera%208SV41QHMOAIK.pdf)
-  - [Developing Front-End Apps with React](file:///C:/Users/njs_3/Downloads/Coursera%20IXNOKCMYGX92.pdf)
+  - [ Introduction to Web Development with HTML, CSS,JavaScript](https://imgur.com/a/hCU20cp)
+  - [Developing Front-End Apps with React](https://imgur.com/L0KZGgu)
     
   
 ## 🤳 Connect with me
