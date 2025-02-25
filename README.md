@@ -31,7 +31,6 @@
 
 
 [snapchat]: https://www.snapchat.com/add/theonethatiz?share_id=gKfW0-GIgRA&locale=en-US
-[cashapp]: https://imgur.com/a/u9XLX7b
 [youtube]: https://www.youtube.com/@networkStan
-[linkedin]: https://linkedin.com/in/njs33487
+
 
