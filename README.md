@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nicholas! <br/><a href="https://www.upwork.com/freelancers/~0170ecd8433937e1d6?mp_source=share&hl=en-US">Software Developer</a>
-<a href="https://www.flcompanyregistry.com/companies/digital-binary-solutions-llc/"> , and SDVOSB Owner</a>
+<a href="https://www.flcompanyregistry.com/companies/digital-binary-solutions-llc/">,SDVOSB Owner</a>
 <a href="https://resume-njs62325.vercel.app/">,RESUME</a>
  
   ## 👨‍💻 Software Development Projects:
