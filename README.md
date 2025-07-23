@@ -3,7 +3,6 @@
 <a href="https://resume-njs62325.vercel.app/">,RESUME</a>
  
   ## 👨‍💻 Software Development Projects:
-   -  [Callout Racing](https://github.com/njs33487/CalloutRacing)
    - [Callout Racing Mobile](https://github.com/njs33487/CalloutRacingMobile)
 - <b>Full Stack Web App (Java, JDBC, AWS, postgreSQL, Maven , Tomcat , Postman, HTML , CSS , JavaScript, Angular, Spring MVC)</b>
     - [Employee Reimbursement System](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/EmployeeReimburementSystem)
