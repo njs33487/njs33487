@@ -22,14 +22,13 @@
   - [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000552551/ge494tbrk7)
   - [ Introduction to Web Development with HTML, CSS,JavaScript](https://imgur.com/a/hCU20cp)
   - [Developing Front-End Apps with React](https://imgur.com/L0KZGgu)
+  - [AI Agent Foundations](https://credsverse.com/credentials/e8ac33af-4a41-4cf9-bf1f-53a16c7ec904)
     
   
 ## 🤳 Connect with me
 
 [<img align="center" alt="NicholasStanley | Android" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/snapchat.svg" />][snapchat]
 [<img align="left" alt="NicholasStanley | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
 
 [snapchat]: https://www.snapchat.com/add/theonethatiz?share_id=gKfW0-GIgRA&locale=en-US
 [youtube]: https://www.youtube.com/@networkStan
