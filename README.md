@@ -26,11 +26,8 @@
     
   
 ## 🤳 Connect with me
-
-[<img align="center" alt="NicholasStanley | Android" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/snapchat.svg" />][snapchat]
 [<img align="left" alt="NicholasStanley | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[snapchat]: https://www.snapchat.com/add/theonethatiz?share_id=gKfW0-GIgRA&locale=en-US
 [youtube]: https://www.youtube.com/@networkStan
 
 
