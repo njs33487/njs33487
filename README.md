@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nicholas! 
-<a href="https://resume-njs62325.vercel.app/">,RESUME</a>
+<a href="https://resume-njs62325.vercel.app/">,RESUME</a> </br>
 <a href="https://www.skool.com/how-to-learn-anything-7219">,CHECK OUT MY SKOOL Memory Hacks & Mental Models</a>
  
   ## 👨‍💻 Software Development Projects:
