@@ -6,8 +6,6 @@
    - [Callout Racing Mobile](https://github.com/njs33487/CalloutRacingMobile)
 - <b>Full Stack Web App (Java, JDBC, AWS, postgreSQL, Maven , Tomcat , Postman, HTML , CSS , JavaScript, Angular, Spring MVC)</b>
     - [Employee Reimbursement System](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/EmployeeReimburementSystem)
-    - [Hacker Rank](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/nicholasStanleyCode/nickJava/hackerrank-solutions)
-  
  - <b>Full Stack Web App (Python , Django , HTML , CSS , JavaScript , JQuery , React , Redux )</b>   
    - [Twitter Clone](https://github.com/njs33487/Twitter_Clone)
    - [Netflix Clone](https://github.com/njs33487/NetflixClone)
@@ -16,7 +14,7 @@
 - <b>PowerShell</b>
     - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
 - <b>Java</b>
-    - [Java repository](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/nicholasStanleyCode/nickJava/hackerrank-solutions)
+    - [Hacker Rank](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/nicholasStanleyCode/nickJava/hackerrank-solutions)
 
 ## 🎓Credentials:
   - [Daytona State College AA](https://imgur.com/a/aLHZuaA)
