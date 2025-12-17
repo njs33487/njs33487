@@ -25,7 +25,7 @@
   - [ Introduction to Web Development with HTML, CSS,JavaScript](https://imgur.com/a/hCU20cp)
   - [Developing Front-End Apps with React](https://imgur.com/L0KZGgu)
   - [AI Agent Foundations](https://credsverse.com/credentials/e8ac33af-4a41-4cf9-bf1f-53a16c7ec904)
-    
+  - [Paralegal Studies BCI](https://imgur.com/a/uhNaCCc)
   
 ## 🤳 Connect with me
 [<img align="left" alt="NicholasStanley | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
