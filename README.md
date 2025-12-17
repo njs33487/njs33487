@@ -8,8 +8,9 @@
     - [Employee Reimbursement System](https://github.com/njs33487/Java_Python_HTML_CSS_JavaScript/tree/main/EmployeeReimburementSystem)
  
  - <b>Full Stack Web App (Python , Django , HTML , CSS , JavaScript , JQuery , React , Redux )</b>   
-   - [Twitter Clone](https://TwitterClone.nicholasjoseph1.repl.co)
-   - [Netflix Clone](https://netflix-frontend.nicholasjoseph1.repl.co/)
+   - [Twitter Clone](https://github.com/njs33487/Twitter_Clone)
+   - [Netflix Clone](https://github.com/njs33487/NetflixClone)
+   - [Fake Store API](https://github.com/njs33487/fakestoreapi-project)
    - [WebPageExample](https://github.com/njs33487/webpage_example)
 - <b>PowerShell</b>
     - [Windows 11 System Restore Using DISM](https://github.com/njs33487/System-Restore-win11)
