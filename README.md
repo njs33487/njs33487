@@ -4,7 +4,7 @@
 </br>
 <a href="https://imgur.com/a/0NKFHAR">SDVOSB OWNER</a> 
 </br>
- <a href="https://www.skool.com/how-to-learn-anything-7219">CHECK OUT Memory Hacks & Mental Models</a>
+ <a href="https://www.skool.com/how-to-learn-anything-7219">check out my skool.com page Memory Hacks & Mental Models</a>
 
 
  
